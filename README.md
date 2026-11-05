@@ -173,6 +173,10 @@ php -S localhost:8000 -t public
 
 Then visit: `http://localhost:8000`
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Domain%20Monitor/)
+
 ## 🔧 Configuration
 
 ### Application & Email Settings
